@@ -12,7 +12,7 @@ Fnally, A webpage is created to show the UFO sighting events and provides the fu
 ## Results
 
 The html looks like below:
-![web](screenshot_web.png)
+![web](Screenshot_web.png)
 
 On the left of the webpage, there are four filters.
 just enter the key words and hit enter to use filters. 
